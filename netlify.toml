@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://forum.openzeppelin.com/:splat"
+  status = 301
