@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "https://blog.openzeppelin.com/"
+  to = "https://blog.openzeppelin.com/:splat"
   status = 301
