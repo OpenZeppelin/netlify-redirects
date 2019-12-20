@@ -12,3 +12,8 @@
   from = "https://forum.openzeppelin.org/*"
   to = "https://forum.openzeppelin.com/:splat"
   status = 301
+
+[[redirects]]
+  from = "https://forum.zeppelin.solutions/*"
+  to = "https://forum.openzeppelin.com/:splat"
+  status = 301
