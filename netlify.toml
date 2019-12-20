@@ -17,3 +17,8 @@
   from = "https://forum.zeppelin.solutions/*"
   to = "https://forum.openzeppelin.com/:splat"
   status = 301
+
+[[redirects]]
+  from = "https://zepkit.zeppelinos.org/*"
+  to = "https://openzeppelin.com/starter-kits"
+  status = 301
