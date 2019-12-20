@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "https://blog.zeppelinos.org/*"
+  to = "https://blog.openzeppelin.com/:splat"
+  status = 301
