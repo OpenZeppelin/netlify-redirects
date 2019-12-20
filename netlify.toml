@@ -7,3 +7,8 @@
   from = "https://crafty.zeppelin.solutions/*"
   to = "https://crafty.openzeppelin.com/"
   status = 301
+
+[[redirects]]
+  from = "https://forum.openzeppelin.org/*"
+  to = "https://forum.openzeppelin.com/:splat"
+  status = 301
