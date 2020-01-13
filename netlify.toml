@@ -22,3 +22,97 @@
   from = "https://zepkit.zeppelinos.org/*"
   to = "https://openzeppelin.com/starter-kits"
   status = 301
+
+# Contracts docsite migration
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/release-schedule"
+  to = "https://docs.openzeppelin.com/releases-stability"
+  status = 301
+  
+[[redirects]]
+  from = "https://docs.openzeppelin.com/api-stability"
+  to = "https://docs.openzeppelin.com/releases-stability"
+  status = 301
+  
+# SDK docsite split from SDK into CLI and Upgrades
+  
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/first"
+  to = "https://docs.openzeppelin.com/cli/getting-started"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/interacting"
+  to = "https://docs.openzeppelin.com/learn/deploying-and-interacting"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/linking"
+  to = "https://docs.openzeppelin.com/cli/dependencies"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/zepkit"
+  to = "https://docs.openzeppelin.com/starter-kits"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/public-deploy"
+  to = "https://docs.openzeppelin.com/learn/connecting-to-public-test-networks"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/writing-contracts"
+  to = "https://docs.openzeppelin.com/upgrades/writing-upgradeable"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/gsn-dapp"
+  to = "https://docs.openzeppelin.com/learn/sending-gasless-transactions"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/network-js"
+  to = "https://docs.openzeppelin.com/network-js"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/publish"
+  to = "https://docs.openzeppelin.com/cli/publishing-ethereum-package"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/truffle"
+  to = "https://docs.openzeppelin.com/cli/truffle"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/testing"
+  to = "https://docs.openzeppelin.com/learn/writing-automated-tests"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/zos-lib"
+  to = "https://docs.openzeppelin.com/upgrades"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/faq"
+  to = "https://docs.openzeppelin.com/cli/faq"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/configuration"
+  to = "https://docs.openzeppelin.com/cli/configuration"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/architecture"
+  to = "https://docs.openzeppelin.com/cli/contracts-architecture"
+  status = 301
+
+[[redirects]]
+  from = "https://docs.openzeppelin.com/sdk/pattern"
+  to = "https://docs.openzeppelin.com/upgrades/proxies"
+  status = 301
