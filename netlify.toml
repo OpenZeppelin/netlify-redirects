@@ -25,5 +25,5 @@
 
 [[redirects]]
   from = "https://docs.defender.openzeppelin.com/*"
-  to = "https://www.notion.so/openzeppelin/Defender-Docs-f3c1b455389a4d88af7f2e6623f6e1ba"
+  to = "https://docs.openzeppelin.com/defender"
   status = 302
